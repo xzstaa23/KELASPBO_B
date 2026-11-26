@@ -1,1 +1,2 @@
-console.log("Namakalian/4digit NPM");
+console.log("Ayusta/3537");
+console.log("Ayusta2");
