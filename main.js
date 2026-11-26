@@ -1,0 +1,1 @@
+console.log("Namakalian/4digit NPM");
